@@ -96,4 +96,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Happy coding! If you have any questions or encounter any issues, feel free to [create an issue](https://github.com/your-username/WeatherApp/issues) in the repository.
 ```
 
-You can customize this template according to your specific project details and preferences. Don't forget to replace `your-username` with your GitHub username and add your project-specific information where needed.
+I don't know why I have added this line here, I guess no one reads the README.md till here so I am just typing out random words which doesn't mean anything and still if you're still reading this, I hope you have begun smiling by now. Hehe lol lmao xd rojaodlakls klasjlkd .
