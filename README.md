@@ -1,6 +1,5 @@
-Certainly! Below is a template for a README.md markdown file for your "WeatherApp" GitHub repository:
 
-```markdown
+
 # WeatherApp
 
 Welcome to WeatherApp, a simple web application that displays the weather of different cities. This project is designed to help you learn about working with APIs and fetching weather data from external sources.
@@ -42,7 +41,7 @@ Before you start using WeatherApp, ensure you have the following prerequisites i
 
    ```shell
    git clone https://github.com/your-username/WeatherApp.git
-   ```
+
 
 2. Navigate to the project directory:
 
