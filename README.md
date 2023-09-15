@@ -2,7 +2,7 @@
 
 # WeatherApp
 
-Welcome to WeatherApp, a simple web application that displays the weather of different cities. This project is designed to help you learn about working with APIs and fetching weather data from external sources.
+Welcome to WeatherApp, a simple web application that displays the weather of different cities. I made this project in order to learn about working with APIs and fetching weather data from external sources.
 
 ## Table of Contents
 
